@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botui {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: rgb(0, 0, 162);
+    width: 100vw;
+}
+
+
+
+.playerui {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: rgb(172, 0, 0);
+    width: 100vw;
+}
+
+h1 {
+    color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#jouerboutondefou {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    font-size: 30px;
+    border-radius: 50px;
+}
